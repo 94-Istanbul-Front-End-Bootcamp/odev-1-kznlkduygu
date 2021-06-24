@@ -4,9 +4,10 @@ Github ve Linkedin profillerinizine ulaşabileceğimiz bir web sayfası gelişti
 
 ## Örnek sayfa yapısı
 Butona tıklamadan önce
-![alt text](/ss1.png)
+![önce](https://user-images.githubusercontent.com/48677712/123338341-56303800-d551-11eb-8254-9c7e894d0493.PNG)
+
 Butona tıklandıkdan sonra
-![alt text](/ss2.png)
+![sonra](https://user-images.githubusercontent.com/48677712/123338343-57f9fb80-d551-11eb-8121-fb1af20ad6de.PNG)
 
 
 ## Kurallar
